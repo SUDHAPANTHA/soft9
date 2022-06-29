@@ -1,0 +1,276 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+
+body,
+html {
+    font-family: 'Poppins', sans-serif !important;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.con-btn {
+    width: 135px;
+    border-radius: 8px;
+    background-color: #3BAEDA;
+    color: white;
+    border: 2px solid #3BAEDA;
+}
+
+.main {
+    font-family: 'Poppins';
+    font-size: 40px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.navbar-nav a {
+    font-size: 20px;
+}
+
+.navbar-nav a:hover {
+    text-decoration: underline;
+    color: #3BAEDA;
+    text-decoration-thickness: 4px;
+    width: auto;
+}
+
+.navbar-collapse ul {
+    margin-left: auto;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.re-btn {
+    background-color: #3BAEDA;
+    position: relative;
+    top: 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+}
+
+.email-content {
+    background-color: #3BAEDA;
+}
+
+.email-content p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.email-content h3 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+.details-content {
+    background-color: #3BAEDA;
+}
+
+.card {
+    color: black;
+}
+
+.feature-content h3 {
+    color: #3BAEDA;
+    font-size: 35px;
+}
+
+.feature-content p {
+    font-size: 18px;
+    color: black;
+}
+
+.fea-details {
+    position: relative;
+    top: 80px;
+}
+
+.content {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.context {
+    color: #FFCD00;
+    font-size: 25px;
+}
+
+.text {
+    color: white;
+    position: relative;
+    font-size: 40px;
+}
+
+.homepage-content h2 {
+    color: #3BAEDA;
+}
+
+.homepage-context h2 {
+    color: #3BAEDA;
+}
+
+.contact-wrapper label {
+    font-size: 20px;
+}
+
+.contact-title h3 {
+    color: #3BAEDA;
+    font-weight: bold;
+}
+
+.footer-page {
+    background-color: white;
+}
+
+.info-content p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.send-btn {
+    width: 150px;
+    background-color: #3BAEDA;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
+.how-content-wrapper {
+    text-align: left;
+    font-size: 32px;
+}
+
+.homepage-content {
+    background-color: #ededed;
+}
+
+.plan-content {
+    background-color: #3BAEDA;
+}
+
+.email-content .card:hover {
+    box-shadow: 0px 0px 150px #000000;
+    z-index: 2;
+    transition: all 200ms ease-in;
+    transform: scale(1.2);
+}
+
+.form-controller1 {
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 12px;
+}
+
+.form-controller1 {
+    width: 100%;
+}
+
+.sub-btn {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 6px;
+    width: 100%;
+    border: 2px solid white;
+}
+
+.footer-bottom {
+    background-color: #3BAEDA;
+}
+
+.text-2 {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-menu li a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.copyright-text {
+    font-size: 22px;
+}
+
+.copyright-text a {
+    text-decoration: none;
+    color: darkred;
+}
+
+small {
+    color: black;
+}
+
+.plan-txt {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mail-txt {
+    font-size: 18px;
+}
+
+.apply-button {
+    margin-left: 100px;
+}
+
+.plan-features {
+    margin: 0 auto;
+    flex-grow: 1;
+}
+
+ul.plan-features {
+    text-align: left;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.accordion-button {
+    padding: 15px;
+}
+
+.accordion-header .accordion-button {
+    font-size: 20px;
+    color: #3BAEDA;
+}
+
+.accordion-body p {
+    font-size: 25px;
+}
+
+.faq-content {
+    background-color: #ededed;
+}
+
+.faq-button {
+    background-color: #3BAEDA;
+    color: white;
+    width: 180px;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.faa {
+    color: #3BAEDA;
+    font-size: 45px;
+}
